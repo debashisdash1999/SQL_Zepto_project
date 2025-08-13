@@ -1,1 +1,2 @@
-# SQL_Zepto_project
+# SQL_Zepto_project:
+This repository hosts a PostgreSQL project analyzing Zepto’s product inventory via a zepto table, tracking SKU IDs, categories, prices, quantities, and stock status. It features SQL queries for data exploration (e.g., category diversity), cleaning (e.g., removing NULLs, converting paisa to rupees), and insights like top 10 discounted products, high-MRP out-of-stock items, and category-wise revenue. Demonstrates my professional honing of SQL skills in inventory optimization—explore the detailed code and outputs...
